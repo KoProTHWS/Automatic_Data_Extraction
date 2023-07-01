@@ -1,0 +1,8 @@
+Evaluation Metrics:
+Date and Time: 2023-05-12_14-35-01
+Accuracy: 0.38235294117647056
+Precision: 0.9285714285714286
+Recall: 0.38235294117647056
+F1 Score: 0.5416666666666667
+Total number of sentences: 34
+Correct_predictions: 13

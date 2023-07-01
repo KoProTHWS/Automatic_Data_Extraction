@@ -1,0 +1,26 @@
+TRAIN_DATA = [
+    ("Die Kappsäge ist ziemlich scharf, sei vorsichtig, wenn du sie benutzt.", {"entities": [(1, "TOOL")]}),
+    ("Ich habe die Bohrmaschine letztens in der Garage gesehen.", {"entities": [(3, "TOOL")]}),
+    ("Soll ich den Hobel holen, um das Holz zu bearbeiten?", {"entities": [(3, "TOOL")]}),
+    ("Die Eisensäge könnte nützlich sein, um diese Stangen zu zerschneiden.", {"entities": [(1, "TOOL")]}),
+    ("Brauchen wir den Rohrschneider für diese Aufgabe?", {"entities": [(3, "TOOL")]}),
+    ("Ich glaube, der Winkelbohrer liegt noch im Werkzeugschrank.", {"entities": [(3, "TOOL")]}),
+    ("Könntest du die Schleifmaschine aus dem Keller holen?", {"entities": [(3, "TOOL")]}),
+    ("Mir fehlt ein guter Zangenschlüssel für meine Sammlung.", {"entities": [(4, "TOOL")]}),
+    ("Wer hat den Bandschleifer zuletzt benutzt?", {"entities": [(3, "TOOL")]}),
+    ("Die Ratsche ist fast abgenutzt; wir sollten eine neue kaufen.", {"entities": [(1, "TOOL")]}),
+    ("Ich habe den Tacker im Büro vergessen.", {"entities": [(3, "TOOL")]}),
+    ("Kannst du die Gabelschlüssel sortieren?", {"entities": [(3, "TOOL")]}),
+    ("Der Meißel ist im Schuppen, kannst du ihn holen?", {"entities": [(1, "TOOL")]}),
+    ("Wir könnten den Multimeter verwenden, um die Spannung zu überprüfen.", {"entities": [(3, "TOOL")]}),
+    ("Hast du den Lötkolben benutzt? Er scheint heiß zu sein.", {"entities": [(3, "TOOL")]}),
+    ("Ich finde den Seitenschneider nicht, hast du ihn gesehen?", {"entities": [(3, "TOOL")]}),
+    ("Die Kettensäge macht komische Geräusche, wir sollten sie überprüfen.", {"entities": [(1, "TOOL")]}),
+    ("Wer hat den Inbusschlüssel genommen? Ich kann ihn nicht finden.", {"entities": [(3, "TOOL")]}),
+    ("Hast du die Rohrschere gesehen? Ich brauche sie für meine Arbeit.", {"entities": [(3, "TOOL")]}),
+    ("Ich habe den Bolzenschneider in der Werkstatt gelassen.", {"entities": [(3, "TOOL")]}),
+    ("Wir könnten den Doppelmaulschlüssel für diese Reparatur gebrauchen.", {"entities": [(3, "TOOL")]}),
+    ("Der Abzieher ist im Auto, könntest du ihn bitte holen?", {"entities": [(1, "TOOL")]}),
+    ("Ich kann den Fuchsschwanz nicht finden, hast du ihn gesehen?", {"entities": [(3, "TOOL")]})
+
+]
