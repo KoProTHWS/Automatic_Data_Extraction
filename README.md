@@ -20,6 +20,6 @@ Here's an overview of the repository structure and the purpose of each directory
 
 ## Getting Started
 
-Each directory in the repository contains its own README file with specific usage instructions. Please refer to the README within each directory for detailed guidance on how to use each set of scripts.
+Each directory in the repository contains its own `README` file with specific usage instructions. Please refer to the README within each directory for detailed guidance on how to use each set of scripts.
 
 
